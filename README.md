@@ -1,12 +1,20 @@
 Name:Shree Vibha S
+
 Company:CODTECH IT SOLUTIONS
+
 ID:CT08DS9732
+
 Domain:CLOUD COMPUTING
+
 Duration:4 WEEKS
 
+
 Overview of the Project
+
 Project:DEPLOYING A WEB APPLICATION ON AWS
+
 Objectives
+
 Learn the Basics of Cloud Deployment: Understand how to deploy a web application using Amazon Web Services (AWS).
 
 Set Up and Configure AWS Services: Gain hands-on experience with AWS services, including S3 for hosting static websites.
@@ -14,6 +22,7 @@ Set Up and Configure AWS Services: Gain hands-on experience with AWS services, i
 Deploy a Simple Web Application: Create and deploy a simple HTML/CSS website to AWS S3.
 
 Key Methodologies
+
 Creating a Simple Web Application:
 
 Develop a basic HTML/CSS website.
