@@ -10,6 +10,8 @@ Duration:4 WEEKS
 
 
 Overview of the Project
+![Screenshot (1)](https://github.com/user-attachments/assets/890e116f-9679-408c-afb9-f986f67dfb53)
+
 
 Project:DEPLOYING A WEB APPLICATION ON AWS
 
